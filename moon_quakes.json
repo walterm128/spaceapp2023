@@ -1,0 +1,46 @@
+[
+  {
+    "year": 2011,
+    "day": 200,
+    "timedetection": 1000,
+    "lat": 10.0,
+    "lng": 23.1,
+    "intensity": 5.0,
+    "label": "Moonquke 1",
+    "station": "Station 0",
+    "url": ""
+  },
+  {
+    "year": 2010,
+    "day": 100,
+    "timedetection": 1100,
+    "lat": -10.0,
+    "lng": -23.1,
+    "intensity": 0.5,
+    "label": "Moonquke 2",
+    "station": "Station 1",
+    "url": ""
+  },
+  {
+    "year": 2010,
+    "day": 201,
+    "timedetection": 1000,
+    "lat": 10.0,
+    "lng": 23.1,
+    "intensity": 10.0,
+    "label": "Moonquke 1",
+    "station": "Station 0",
+    "url": ""
+  },
+  {
+    "year": 2011,
+    "day": 101,
+    "timedetection": 1100,
+    "lat": -10.0,
+    "lng": -23.1,
+    "intensity": 1.0,
+    "label": "Moonquke 2",
+    "station": "Station 1",
+    "url": ""
+  }
+]
