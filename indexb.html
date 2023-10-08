@@ -95,7 +95,7 @@
 		const dracoLoader = new DRACOLoader();
 		dracoLoader.setDecoderPath('jsm/libs/draco/gltf/');
 
-		import Stats from 'three/addons/libs/stats.module.js';
+		// import Stats from 'three/addons/libs/stats.module.js';
 
 		let gui;
 
@@ -103,9 +103,9 @@
 		let skyboxImage = "space";
 
 		// Para las estadisticas fps y mem solo diag 
-		const container = document.getElementById('container');
-		const stats = new Stats();
-		container.appendChild(stats.dom);
+		// const container = document.getElementById('container');
+		// const stats = new Stats();
+		// container.appendChild(stats.dom);
 
 		const layers = {
 
@@ -1195,7 +1195,7 @@
 
 			const elapsed = clock.getElapsedTime();
 
-			stats.update();
+			// stats.update();
 
 			// moon.position.set(Math.sin(elapsed) * 5, 0, Math.cos(elapsed) * 5);
 
