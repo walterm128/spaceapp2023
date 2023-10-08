@@ -7,7 +7,7 @@
     "lng": 35.0,
     "intensity": 2.8,
     "label": "Moonquake 1",
-    "station": "Station 12", //CHEQUEADO
+    "station": "Station 12",
     "url": ""
   },
   {
@@ -18,7 +18,7 @@
     "lng": -24.0,
     "intensity": 2,
     "label": "Moonquake 2",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
@@ -29,7 +29,7 @@
     "lng": -47.0,
     "intensity": 1.9,
     "label": "Moonquake 3",
-    "station": "Station 12", //CHEQUEADO
+    "station": "Station 12",
     "url": ""
   },
   {
@@ -40,7 +40,7 @@
     "lng": 101.0,
     "intensity": 1.9,
     "label": "Moonquake 4",
-    "station": "Station 12", //CHEQUEADO
+    "station": "Station 12",
     "url": ""
   },
   {
@@ -51,7 +51,7 @@
     "lng": 46.0,
     "intensity": 1.0,
     "label": "Moonquake 5",
-    "station": "Station 16", //CHEQUEADO
+    "station": "Station 16",
     "url": ""
   },
   {
@@ -62,7 +62,7 @@
     "lng": 45.0,
     "intensity": 1.4,
     "label": "Moonquake 6",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
@@ -73,7 +73,7 @@
     "lng": -80.0,
     "intensity": 1.2,
     "label": "Moonquake 7",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
@@ -84,7 +84,7 @@
     "lng": 35.0,
     "intensity": 0.8,
     "label": "Moonquake 8",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
@@ -95,7 +95,7 @@
     "lng": -134.0,
     "intensity": 3.2,
     "label": "Moonquake 9",
-    "station": "Station 15", //CHEQUEADO
+    "station": "Station 15",
     "url": ""
   },
   {
@@ -106,7 +106,7 @@
     "lng": -71.0,
     "intensity": 2.2,
     "label": "Moonquake 10",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
@@ -117,7 +117,7 @@
     "lng": -29.0,
     "intensity": 1.1,
     "label": "Moonquake 11",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
@@ -128,7 +128,7 @@
     "lng": -16.0,
     "intensity": 0.7,
     "label": "Moonquake 12",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
@@ -139,7 +139,7 @@
     "lng": -106.0,
     "intensity": 1.6,
     "label": "Moonquake 13",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
@@ -150,18 +150,18 @@
     "lng": 42.0,
     "intensity": 0.9,
     "label": "Moonquake 14",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
     "year": 1974,
     "day": 149,
     "timedetection": "20:42.15",
-    "lat": -37.0,                   //---REVISAR!!!!!
-    "lng": 42.0,                    //---REVISAR!!!!!
+    "lat": -37.0,
+    "lng": 42.0,
     "intensity": 0.6,
     "label": "Moonquake 15",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
@@ -172,18 +172,7 @@
     "lng": 88.0,                    
     "intensity": 2.7,
     "label": "Moonquake 16",
-    "station": "Station 14", //CHEQUEADO
-    "url": ""
-  },
-  {
-    "year": 1975,
-    "day": 03,
-    "timedetection": "01:42.00",
-    "lat": 29.0,                   
-    "lng": -98.0,                    
-    "intensity": 3.2,
-    "label": "Moonquake 17",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
@@ -194,7 +183,7 @@
     "lng": 40.0,                    
     "intensity": 1.7,
     "label": "Moonquake 18",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
@@ -205,7 +194,7 @@
     "lng": -51.0,                    
     "intensity": 1.1,
     "label": "Moonquake 19",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
@@ -216,7 +205,7 @@
     "lng": -26.0,                    
     "intensity": 1.4,
     "label": "Moonquake 20",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
@@ -227,7 +216,7 @@
     "lng": -45.0,                    
     "intensity": 1.3,
     "label": "Moonquake 21",
-    "station": "Station 14",  //CHEQUEADO
+    "station": "Station 14", 
     "url": ""
   },
   {
@@ -238,7 +227,7 @@
     "lng": -58.0,                    
     "intensity": 1.4,
     "label": "Moonquake 22",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
@@ -249,18 +238,7 @@
     "lng": 64.0,                    
     "intensity": 1.8,
     "label": "Moonquake 23",
-    "station": "Station 14", //CHEQUEADO
-    "url": ""
-  },
-  {
-    "year": 1976,
-    "day": 04,
-    "timedetection": "11:18.55",
-    "lat": 50.0,                   
-    "lng": 30.0,                    
-    "intensity": 1.8,
-    "label": "Moonquake 24",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
@@ -271,7 +249,7 @@
     "lng": 44.0,                    
     "intensity": 1.1,
     "label": "Moonquake 25",
-    "station": "Station 14", //CHEQUEADO
+    "station": "Station 14",
     "url": ""
   },
   {
