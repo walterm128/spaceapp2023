@@ -1,0 +1,140 @@
+[
+  {
+    "lat": 22.6,
+    "lng": 67.7,
+    "label": "Mare Anguis",
+    "url": "https://en.wikipedia.org/wiki/Mare_Anguis"
+  },
+  {
+    "lat": -38.9,
+    "lng": 93.0,
+    "label": "Mare Australe",
+    "url": "https://en.wikipedia.org/wiki/Mare_Australe"
+  },
+  {
+    "lat": -10.0,
+    "lng": -23.1,
+    "label": "Mare Cognitum",
+    "url": "https://en.wikipedia.org/wiki/Mare_Cognitum"
+  },
+  {
+    "lat": 17.0,
+    "lng": 59.1,
+    "label": "Mare Crisium",
+    "url": "Mare Crisium"
+  },
+  {
+    "lat": -7.8,
+    "lng": 51.3,
+    "label": "Mare Fecunditatis",
+    "url": "Mare Fecunditatis"
+  },
+  {
+    "lat": 56.0,
+    "lng": 1.4,
+    "label": "Mare Frigoris",
+    "url": "Mare Frigoris"
+  },
+  {
+    "lat": 56.8,
+    "lng": 81.5,
+    "label": "Mare Humboldtianum",
+    "url": "Mare Humboldtianum"
+  },
+  {
+    "lat": -24.4,
+    "lng": -38.6,
+    "label": "Mare Humorum",
+    "url": "Mare Humorum"
+  },
+  {
+    "lat": 32.8,
+    "lng": -15.6,
+    "label": "Mare Imbrium",
+    "url": "Mare Imbrium"
+  },
+  {
+    "lat": -33.7,
+    "lng": 163.5,
+    "label": "Mare Ingenii",
+    "url": "Mare Ingenii"
+  },
+  {
+    "lat": 7.5,
+    "lng": -30.9,
+    "label": "Mare Insularum",
+    "url": "Mare Insularum"
+  },
+  {
+    "lat": 13.3,
+    "lng": 86.1,
+    "label": "Mare Marginis",
+    "url": "Mare Marginis"
+  },
+  {
+    "lat": 27.3,
+    "lng": 147.9,
+    "label": "Mare Moscoviense",
+    "url": "Mare Moscoviense"
+  },
+  {
+    "lat": -15.2,
+    "lng": 35.5,
+    "label": "Mare Nectaris",
+    "url": "Mare Nectaris"
+  },
+  {
+    "lat": -21.3,
+    "lng": -16.6,
+    "label": "Mare Nubium",
+    "url": "Mare Nubium"
+  },
+  {
+    "lat": -19.4,
+    "lng": -92.8,
+    "label": "Mare Orientale",
+    "url": "Mare Orientale"
+  },
+  {
+    "lat": 28.0,
+    "lng": 17.5,
+    "label": "Mare Serenitatis",
+    "url": "Mare Serenitatis"
+  },
+  {
+    "lat": 1.3,
+    "lng": 87.5,
+    "label": "Mare Smythii",
+    "url": "Mare Smythii"
+  },
+  {
+    "lat": 1.1,
+    "lng": 65.1,
+    "label": "Mare Spumans",
+    "url": "Mare Spumans"
+  },
+  {
+    "lat": 8.5,
+    "lng": 31.4,
+    "label": "Mare Tranquillitatis",
+    "url": "Mare Tranquillitatis"
+  },
+  {
+    "lat": 6.8,
+    "lng": 68.4,
+    "label": "Mare Undarum",
+    "url": "Mare Undarum"
+  },
+  {
+    "lat": 13.3,
+    "lng": 3.6,
+    "label": "Mare Vaporum",
+    "url": "Mare Vaporum"
+  },
+  {
+    "lat": 18.4,
+    "lng": -57.4,
+    "label": "Oceanus Procellarum",
+    "url": "Oceanus Procellarum"
+  }
+]
